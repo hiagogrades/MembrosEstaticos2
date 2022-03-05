@@ -1,0 +1,16 @@
+D:\Studies\C# - Nélio Alves\Cap 4\46-MembrosEstaticos\MembrosEstaticos2\MembrosEstaticos2\obj\Debug\net5.0\MembrosEstaticos2.csproj.AssemblyReference.cache
+D:\Studies\C# - Nélio Alves\Cap 4\46-MembrosEstaticos\MembrosEstaticos2\MembrosEstaticos2\obj\Debug\net5.0\MembrosEstaticos2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\C# - Nélio Alves\Cap 4\46-MembrosEstaticos\MembrosEstaticos2\MembrosEstaticos2\obj\Debug\net5.0\MembrosEstaticos2.AssemblyInfoInputs.cache
+D:\Studies\C# - Nélio Alves\Cap 4\46-MembrosEstaticos\MembrosEstaticos2\MembrosEstaticos2\obj\Debug\net5.0\MembrosEstaticos2.AssemblyInfo.cs
+D:\Studies\C# - Nélio Alves\Cap 4\46-MembrosEstaticos\MembrosEstaticos2\MembrosEstaticos2\obj\Debug\net5.0\MembrosEstaticos2.csproj.CoreCompileInputs.cache
+D:\Studies\C# - Nélio Alves\Cap 4\46-MembrosEstaticos\MembrosEstaticos2\MembrosEstaticos2\bin\Debug\net5.0\MembrosEstaticos2.exe
+D:\Studies\C# - Nélio Alves\Cap 4\46-MembrosEstaticos\MembrosEstaticos2\MembrosEstaticos2\bin\Debug\net5.0\MembrosEstaticos2.deps.json
+D:\Studies\C# - Nélio Alves\Cap 4\46-MembrosEstaticos\MembrosEstaticos2\MembrosEstaticos2\bin\Debug\net5.0\MembrosEstaticos2.runtimeconfig.json
+D:\Studies\C# - Nélio Alves\Cap 4\46-MembrosEstaticos\MembrosEstaticos2\MembrosEstaticos2\bin\Debug\net5.0\MembrosEstaticos2.runtimeconfig.dev.json
+D:\Studies\C# - Nélio Alves\Cap 4\46-MembrosEstaticos\MembrosEstaticos2\MembrosEstaticos2\bin\Debug\net5.0\MembrosEstaticos2.dll
+D:\Studies\C# - Nélio Alves\Cap 4\46-MembrosEstaticos\MembrosEstaticos2\MembrosEstaticos2\bin\Debug\net5.0\MembrosEstaticos2.pdb
+D:\Studies\C# - Nélio Alves\Cap 4\46-MembrosEstaticos\MembrosEstaticos2\MembrosEstaticos2\obj\Debug\net5.0\MembrosEstaticos2.dll
+D:\Studies\C# - Nélio Alves\Cap 4\46-MembrosEstaticos\MembrosEstaticos2\MembrosEstaticos2\obj\Debug\net5.0\refint\MembrosEstaticos2.dll
+D:\Studies\C# - Nélio Alves\Cap 4\46-MembrosEstaticos\MembrosEstaticos2\MembrosEstaticos2\obj\Debug\net5.0\MembrosEstaticos2.pdb
+D:\Studies\C# - Nélio Alves\Cap 4\46-MembrosEstaticos\MembrosEstaticos2\MembrosEstaticos2\obj\Debug\net5.0\MembrosEstaticos2.genruntimeconfig.cache
+D:\Studies\C# - Nélio Alves\Cap 4\46-MembrosEstaticos\MembrosEstaticos2\MembrosEstaticos2\obj\Debug\net5.0\ref\MembrosEstaticos2.dll
